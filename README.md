@@ -13,6 +13,8 @@ Jammming is a web application that allows users to search the Spotify library, c
 - **React**: JavaScript library for building user interfaces.
 - **Spotify API**: Used for searching tracks and managing playlists.
 - **Surge**: Used for deploying the application to a live server.
+- **HTML**
+- **CSS**: Used for styling the application
 
 ## Getting Started
 
